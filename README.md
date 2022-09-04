@@ -8,17 +8,24 @@
 
 ##
 
-# Linguaguens & Ferramentas<br>
+# 👨🏻‍💻 Languages & Tools<br>
 <br>
+
 <div>	
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-HTML.svg" />
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-CSS.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
+</div>
+
+<br>
+
+<div>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-CSHARP.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-PYTHON.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-SqlServer.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-HTML.svg" />
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-CSS.svg"/>
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
-<br><br>
+
+<br>
 
 ### Legenda de niveis:
 
