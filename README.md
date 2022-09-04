@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Linguaguens & Ferramentas<br>
 <br>
 <div>	
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-CSHARP.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-CSHARP.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-PYTHON.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-SqlServer.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
 <br><br>
 
-Legenda de niveis:
+### Legenda de niveis:
 
-- Iniciante: Verde `#239120` 
-- Intermediario: Vermelho `#cc2927`
-- Avançado: Amarelo 
+- Iniciante: Verde 🟢 <!--#239120-->
+- Intermediario: Vermelho 🔴 <!--#cc2927-->
+- Avançado: Amarelo 🟡
 
 </div>
 
@@ -44,6 +44,8 @@ Legenda de niveis:
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorperes02&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorperes02&layout=compact&theme=radical)
+
+##
 
 ![snake gif](https://github.com/victorperes02/victorperes02/blob/output/github-contribution-grid-snake.svg)
