@@ -1,5 +1,4 @@
-# Olá! Eu sou o VictorPeres02 👋
-
+<h1 align = "center"> João Victor dos Santos Peres 👋 </h1>
 
 Here are some ideas to get you started:
 
