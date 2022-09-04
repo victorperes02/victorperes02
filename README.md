@@ -1,11 +1,5 @@
 <h1 align = "center"> João Victor dos Santos Peres 👋 </h1>
 
-Here are some ideas to get you started:
-
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudo C#, Sql e Docker 
-- 💬 Contate-me no email: victorsantosperes@gmail.com
-
 ##
 
 ![Victor Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=victorperes02&show_icons=true&theme=radical)
