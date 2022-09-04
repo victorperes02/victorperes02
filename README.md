@@ -14,14 +14,24 @@ Here are some ideas to get you started:
 
 ##
 
-# Linguaguens & Ferramentas
-
+# Linguaguens & Ferramentas<br>
+<br>
 <div>	
-<img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img whidht = "40em" src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-CSHARP.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-PYTHON.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-SqlServer.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-HTML.svg" />
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-CSS.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
+<br><br>
+
+Legenda de niveis:
+
+- Iniciante: Verde `#239120` 
+- Intermediario: Vermelho `#cc2927`
+- Avançado: Amarelo 
+
 </div>
 
 ##
@@ -29,6 +39,7 @@ Here are some ideas to get you started:
 <div>
 <a href = "ds"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "a"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "a"> <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 ##
