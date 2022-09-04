@@ -33,7 +33,7 @@
 &nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
 <div>
-<img heigth = "185" width = "185" align = "right" src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/Gif%20Victor%20Peres%20Perfil.gif"/>
+<img heigth = "170" width = "170" align = "right" src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/Gif%20Victor%20Peres%20Perfil.gif"/>
 </div>
 
 
