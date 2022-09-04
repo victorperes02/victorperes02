@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Linguaguens & Ferramentas<br>
 <br>
 <div>	
-<img whidht = "40em" src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-CSHARP.svg"/>
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-CSHARP.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-PYTHON.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-SqlServer.svg"/>
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
