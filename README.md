@@ -34,8 +34,6 @@
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
 
 <br>
-
-##
   
 ### Level Legend:
 - Beginner: Green 🟢 <!--#239120-->
