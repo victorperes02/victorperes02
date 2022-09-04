@@ -1,6 +1,6 @@
 <h1 align = "center"> João Victor dos Santos Peres 👋 </h1>
 
-<h3 align = "center"> ----BIO---- </h3>
+<h3 align = "center"> Active in the development area with experience in software development and support. Bachelor of Computer Science and seeking new knowledge and experiences to solve problems. </h3>
 
 ##
 
