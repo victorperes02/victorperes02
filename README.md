@@ -1,5 +1,7 @@
 <h1 align = "center"> João Victor dos Santos Peres 👋 </h1>
 
+----BIO----
+
 ##
 
 ![Victor Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=victorperes02&show_icons=true&theme=radical)
