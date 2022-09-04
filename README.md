@@ -35,8 +35,9 @@
 
 <br>
 
+##
+  
 ### Legenda de niveis:
-
 - Iniciante: Verde 🟢 <!--#239120-->
 - Intermediario: Vermelho 🔴 <!--#cc2927-->
 - Avançado: Amarelo 🟡
