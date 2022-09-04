@@ -37,10 +37,10 @@
 
 ##
   
-### Legenda de niveis:
-- Iniciante: Verde 🟢 <!--#239120-->
-- Intermediario: Vermelho 🔴 <!--#cc2927-->
-- Avançado: Amarelo 🟡
+### Level Legend:
+- Beginner: Green 🟢 <!--#239120-->
+- Intermediary: Red 🔴 <!--#cc2927-->
+- Advanced: Yellow 🟡
 
 </div>
 
