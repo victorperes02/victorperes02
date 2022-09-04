@@ -1,6 +1,6 @@
 <h1 align = "center"> João Victor dos Santos Peres 👋 </h1>
 
-----BIO----
+<h3 align = "center"> ----BIO---- </h3>
 
 ##
 
