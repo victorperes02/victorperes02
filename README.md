@@ -32,10 +32,10 @@
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-SqlServer.svg"/>
 &nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
-
 <div>
 <img heigth = "180" width = "180" align = "right" src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/Gif%20Victor%20Peres%20Perfil.gif"/>
 </div>
+
 
 <br>
 
@@ -44,9 +44,8 @@
 - Intermediary: Red 🔴 <!--#cc2927-->
 - Advanced: Yellow 🟡
 
-
-
 </div>
+<br>
 
 ##
 
