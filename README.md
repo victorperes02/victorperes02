@@ -4,25 +4,33 @@
 
 ##
 
-![Victor Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=victorperes02&show_icons=true&theme=radical)
+<!-- ![Victor Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=victorperes02&show_icons=true&theme=radical) -->
+<img src = "https://github-readme-stats.vercel.app/api?username=victorperes02&show_icons=true&theme=radical"/> 
 
 ##
 
-# 👨🏻‍💻 Languages & Tools<br>
+## 👨🏻‍💻 Languages & Tools<br>
 <br>
+
 
 <div>	
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-HTML.svg" />
+&nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-CSS.svg"/>
+&nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
 </div>
 
 <br>
 
 <div>
+  
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-CSHARP.svg"/>
+&nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-PYTHON.svg"/>
+&nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-SqlServer.svg"/>
+&nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
 
 <br>
@@ -38,7 +46,7 @@
 ##
 
 <div>
-<a href = "ds"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/victor-peres-138028163/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "a"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "a"> <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
