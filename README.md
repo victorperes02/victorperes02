@@ -18,6 +18,10 @@
 &nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-CSS.svg"/>
 &nbsp;
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-JavaScript.svg"/>
+&nbsp;
+<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-Docker.svg"/>
+&nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
 </div>
 
